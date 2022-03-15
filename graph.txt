@@ -1,0 +1,10 @@
+a; b; 8
+b; b; 8
+b; c; 8
+c; d; 6
+d; b; 4
+Node: a
+Node: b
+Node: c
+Node: d
+Node: e
