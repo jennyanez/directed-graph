@@ -1,2 +1,2 @@
 # directed-graph
-A simple edge-weighted directed graph made in Python, with a GUI made with PyQt5.
+A simple edge-weighted directed graph made in Python, and a GUI made with PyQt5.
